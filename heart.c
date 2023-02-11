@@ -32,7 +32,7 @@ int main(){
             for(k=1;k<=i;k++){
             printf(" ");
         }
-        for(j=n ;j>i;j--){
+        for(j=n;j>i;j--){
             printf("* ");
         }
 
